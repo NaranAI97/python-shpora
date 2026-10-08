@@ -1,0 +1,17 @@
+# len() — узнать количество элементов
+
+text = "Hello"
+print(len(text))
+
+
+# count() — посчитать количество вхождений
+
+text = "banana"
+print(text.count("a"))
+
+
+# split() — разделить строку на части
+
+text = "10 20 30"
+numbers = text.split()
+print(numbers)
